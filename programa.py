@@ -1,4 +1,5 @@
 import json
+import marshal
 
 
 def extraerFrases():
@@ -16,4 +17,24 @@ def extraerFrases():
         return nueva_lista
 
 
-extraerFrases()
+frases = extraerFrases()
+lista2 = []
+
+# Cargamos las frases guardadas
+txt_frases_abrir = open("comprobacion_frases.txt", "br")
+datos = marshal.load(txt_frases_abrir)
+txt_frases_abrir.close()
+
+
+
+
+
+# for frase in frases:
+ #    if frase not in lista2:
+  #      print(frase)
+   #      break
+
+# Guardamos la frase usada
+txt_frases_cerrar = open("comprobacion_frases.txt", "bw")
+marshal.dump(lista2, txt_frases_cerrar)
+txt_frases_cerrar.close()
