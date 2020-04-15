@@ -1,8 +1,12 @@
-import pandas as pd
-import numpy as np
-frases = pd.read_csv("Frases.csv")
+import json
 
 
-for frase in frases:
-    print(frase)
+def extraerFrases():
+    with open("frases.json", encoding="utf8") as file:
+        frases = json.load(file)
+        
 
+
+
+
+extraerFrases()
