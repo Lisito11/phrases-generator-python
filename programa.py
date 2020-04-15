@@ -2,6 +2,7 @@ import json
 import marshal
 import requests
 
+
 def extraerFrases():
     with open("frases.json", encoding="utf8") as file:
         lista_frases = []
@@ -24,29 +25,30 @@ txt_frases_abrir = open("comprobacion_frases.txt", "br")
 datos = marshal.load(txt_frases_abrir)
 txt_frases_abrir.close()
 
-print(type(datos))
-for i, frase in enumerate(frases):
+print(datos)
+for frase in frases:
     if frase not in datos:
-        frase = frase[i][0]
-        autor = frase[i][1]
-        reflexion = frase[i][2]
+        f = frase[0]
+        autor = frase[1]
+        reflexion = frase[2]
         idChat = "-1001377568752"
         respuesta = requests.post(
             'https://api.telegram.org/bot1001617621:AAHW2Sbdvjx8bpXKDJdxXgGDe5CeJqQIHoA/sendMessage',
             data={f'chat_id': f'{idChat}', 'text': f"""¡BUENOS DIAS!\U0001F31E\U0001F60B
 
-La reflexión de hoy es...\U0001F440 
+La frase de hoy es...\U0001F440
 
-__-{frase}__
+-{f}
 
-**-{autor}.**
+-{autor}.
 
 Y la pequeña reflexión es...\U0001F60C
 
 -{reflexion}"""})
+        lista2.append(frase)
         break
 
 # Guardamos la frase usada
-# txt_frases_cerrar = open("comprobacion_frases.txt", "bw")
-# marshal.dump(lista2, txt_frases_cerrar)
-# txt_frases_cerrar.close()
+txt_frases_cerrar = open("comprobacion_frases.txt", "bw")
+marshal.dump(lista2, txt_frases_cerrar)
+txt_frases_cerrar.close()
