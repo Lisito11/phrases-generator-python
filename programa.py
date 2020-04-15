@@ -19,15 +19,14 @@ def extraerFrases():
 
 
 frases = extraerFrases()
-lista2 = []
+
 # Cargamos las frases guardadas
 txt_frases_abrir = open("comprobacion_frases.txt", "br")
 datos = marshal.load(txt_frases_abrir)
 txt_frases_abrir.close()
 
-print(datos)
 for frase in frases:
-    if frase not in datos:
+    if frase in datos:
         f = frase[0]
         autor = frase[1]
         reflexion = frase[2]
@@ -42,13 +41,13 @@ La frase de hoy es...\U0001F440
 
 -{autor}.
 
-Y la pequeña reflexión es...\U0001F60C
+...\U0001F60C
 
 -{reflexion}"""})
-        lista2.append(frase)
+        datos.pop(0)
         break
 
 # Guardamos la frase usada
 txt_frases_cerrar = open("comprobacion_frases.txt", "bw")
-marshal.dump(lista2, txt_frases_cerrar)
+marshal.dump(datos, txt_frases_cerrar)
 txt_frases_cerrar.close()
