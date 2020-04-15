@@ -1,0 +1,438 @@
+{
+
+  "frases": [
+
+    {
+      "codigo": 1,
+      "autor": "Nelson Mandela",
+      "frase": "Siempre parece imposible hasta que se hace.",
+      "reflexion": "Una de las frases motivacionales más famosas de Nelson Mandela, que nos hace atrevernos."
+    },
+
+    {
+      "codigo": 2,
+      "autor": "Jim Ryun",
+      "frase": "La motivación es lo que te pone en marcha, el hábito es lo que hace que sigas.",
+      "reflexion": "Incorporar el estudio a nuestros hábitos diarios es una forma de hacer que los conocimientos queden bien interiorizados."
+    },
+
+    {
+      "codigo": 3,
+      "autor": "Confucio",
+      "frase": "Estudia el pasado si quieres intuir el futuro.",
+      "reflexion": "Uno de los motivos por los que vale la pena estudiar historia."
+    },
+
+    {
+      "codigo": 4,
+      "autor": "Jim Rohn",
+      "frase": "Si no te gusta cómo son las cosas, cámbialas.",
+      "reflexion": "Una de las claves para progresar en la vida es tener claro que se tiene la capacidad de aprender lo que en un principio parece difícil."
+    },
+
+    {
+      "codigo": 5,
+      "autor": "John R. Wooden",
+      "frase": "No dejes que lo que no puedes hacer interfiera con lo que puedes hacer.",
+      "reflexion": "Una frase para estudiar que se puede aplicar también a todo tipo de tareas complicadas."
+    },
+
+    {
+      "codigo": 6,
+      "autor": "Virgilio",
+      "frase": "La buena fortuna favorece a los atrevidos.",
+      "reflexion": "Una de las frases más remotas históricamente a nuestros tiempos, pero de total vigencia en la actualidad."
+    },
+
+    {
+      "codigo": 7,
+      "autor": "Tiger Woods",
+      "frase": "Siempre se puede ser mejor",
+      "reflexion": "El golfista Tiger Woods sintetiza en una frase una manera de tener siempre presente que nuestro potencial siempre va por delante de nosotros."
+    },
+
+    {
+      "codigo": 8,
+      "autor": "Thomas Edison",
+      "frase": "No hay un sustituto para el trabajo duro",
+      "reflexion": "Edison sostenía que el esfuerzo es inevitable. Así que… ¿por qué perder el tiempo haciendo ver que se puede progresar al margen de él?"
+    },
+
+    {
+      "codigo": 9,
+      "autor": "Michael Jordan",
+      "frase": "He fallado una y otra vez a lo largo de mi vida. Es por eso por lo que he tenido éxito",
+      "reflexion": "Una de las frases motivadoras de un deportista de élite reconocido en todo el mundo."
+    },
+
+    {
+      "codigo": 10,
+      "autor": "Séneca",
+      "frase": "Sin estudiar enferma el alma",
+      "reflexion": "Una frase para estudiar que resulta esencialista, aunque poética a la vez."
+    },
+
+    {
+      "codigo": 11,
+      "autor": "George Saville",
+      "frase": "El hombre que es un maestro de la paciencia es un maestro de todo lo demás",
+      "reflexion": "La paciencia puede ser vista como una capacidad que permite aprenderlo todo."
+    },
+
+    {
+      "codigo": 12,
+      "autor": "Proverbio chino",
+      "frase": "Un libro es como un jardín que se puede llevar en el bolsillo",
+      "reflexion": "Una frase inspiradora acerca del poder de los libros."
+    },
+
+    {
+      "codigo": 13,
+      "autor": "Thomas Edison",
+      "frase": "Si hiciésemos todas las cosas de las que somos capaces, nos asombraríamos ",
+      "reflexion": "Visualizar el “yo ideal” es una buena manera de motivarse, así que merece la pena recordar esta frase de Edison."
+    },
+
+    {
+      "codigo": 14,
+      "autor": "Thomas Jefferson",
+      "frase": "Cuanto más me esfuerzo más suerte parezco tener",
+      "reflexion": "La suerte y el esfuerzo van de la mano."
+    },
+
+    {
+      "codigo": 15,
+      "autor": "John Ruskiin",
+      "frase": "La calidad nunca es un accidente, siempre es resultado de un esfuerzo de la inteligencia.",
+      "reflexion": "Una reflexión para recordar que la calidad es la cara visible de meses y años de esfuerzo."
+    },
+
+    {
+      "codigo": 16,
+      "autor": "Norman Vincent Peale",
+      "frase": "Cambia tus pensamientos y cambiarás tu mundo",
+      "reflexion": "Afrontar el estudio con la mentalidad adecuada puede hacer que modifiquemos nuestras posibilidades de aprender todo lo necesario. A la vez, haber aprendido estos contenidos hará que nuestra manera de interpretar el mundo cambie."
+    },
+
+    {
+      "codigo": 17,
+      "autor": "Martin Luther King",
+      "frase": "Tus talentos y habilidades irán mejorando con el tiempo, pero para eso has de empezar",
+      "reflexion": "Estudiar es potenciar los talentos propios. Este pensamiento puede servir de ayuda para encontrar la motivación que se necesita."
+    },
+
+    {
+      "codigo": 18,
+      "autor": "Mahatma Gandhi",
+      "frase": "La verdadera educación consiste en obtener lo mejor de uno mismo",
+      "reflexion": "Un modo positivo de ver la educación y el estudio que conlleva."
+    },
+
+    {
+      "codigo": 19,
+      "autor": "Edmund Burke",
+      "frase": "Nuestra paciencia conseguirá más cosas que nuestra fuerza",
+      "reflexion": "Un alegato a favor del pacifismo y la inteligencia."
+    },
+
+    {
+      "codigo": 20,
+      "autor": "Helen Exley",
+      "frase": "Los libros son peligrosos. Los mejores deberían ser etiquetados con un \"Esto podría cambiar tu vida\" ",
+      "reflexion": "Una frase entrañable sobre el poder de los libros para cambiar la mentalidad de los lectores."
+    },
+
+    {
+      "codigo": 21,
+      "autor": "Jean Jacques Rousseau",
+      "frase": "La juventud es el momento de estudiar la sabiduría; la vejez, el de practicarla",
+      "reflexion": "Una frase de motivación para estudiar. Ya vendrán los tiempos en que podremos reflexionar sobre lo aprendido."
+    },
+
+    {
+      "codigo": 22,
+      "autor": "Joe Namath",
+      "frase": "Si no vas hasta el final ¿por qué empezar?",
+      "reflexion": "Exacto. Si quieres llegar a algo en esta vida, nunca dejes las cosas a medias."
+    },
+
+    {
+      "codigo": 23,
+      "autor": "Jim Rohn",
+      "frase": "Tu educación más importante no está ocurriendo en una clase",
+      "reflexion": "La educación no solo se adquiere por las vías formales. En cada minuto de nuestra vida recibimos estímulos y los procesamos, no paramos nunca de aprender."
+    },
+
+    {
+      "codigo": 24,
+      "autor": "Confucio",
+      "frase": "Aprender sin pensar es inútil. Pensar sin aprender, peligroso",
+      "reflexion": "El aprendizaje debe ser significativo para que realmente sea provechoso."
+    },
+
+    {
+      "codigo": 25,
+      "autor": "Billie Jean King",
+      "frase": "Los campeones siguen jugando hasta que lo hacen bien",
+      "reflexion": "Una metáfora deportiva muy extrapolable al mundo de los estudios."
+    },
+
+    {
+      "codigo": 26,
+      "autor": "Arnold Palmer",
+      "frase": "Emplea todos tus esfuerzos, incluso cuando las posibilidades jueguen en tu contra",
+      "reflexion": "Una frase motivadora para estudiar hasta tarde y vencer todos los obstáculos que se nos van a presentar en el camino."
+    },
+
+    {
+      "codigo": 27,
+      "autor": "B. B. King",
+      "frase": "Lo maravilloso de aprender algo es que nadie puede arrebatárnoslo",
+      "reflexion": "El mítico bluesman estadounidense reflexiona acerca del aprendizaje."
+    },
+
+    {
+      "codigo": 28,
+      "autor": "Aristóteles",
+      "frase": "La calidad no es un acto, sino un hábito",
+      "reflexion": "La fuerza de nuestra rutina diaria nos conducirá al éxito, tanto en los estudios como en la vida."
+    },
+
+    {
+      "codigo": 29,
+      "autor": "Bo Jackson",
+      "frase": "Ponte objetivos arduos y no pares hasta llegar ahí",
+      "reflexion": "Un canto al tesón y al esfuerzo constante. La perseverancia como motor de grandes sueños."
+    },
+    {
+      "codigo": 31,
+      "autor": "Miguel de Cervantes",
+      "frase": "El hombre bien preparado para la lucha ha conseguido medio triunfo",
+      "reflexion": "El referente de la literatura española habla sobre la necesidad de prepararse y esforzarse para las situaciones realmente difíciles."
+    },
+
+    {
+      "codigo": 32,
+      "autor": "Amelia Earhat",
+      "frase": "La manera más efectiva de hacerlo es hacerlo",
+      "reflexion": "Una frase para atrevernos tremendamente simple, pero muy poderosa."
+    },
+
+    {
+      "codigo": 33,
+      "autor": "George Edward Woodberry",
+      "frase": "Es posible recuperarse de una derrota, pero cuesta más perdonarse a uno mismo por no haberlo intentado",
+      "reflexion": "Es necesario reflexionar acerca si estamos aprovechando las oportunidades que se nos presentan para mejorar, también en lo relativo a los estudios."
+    },
+
+    {
+      "codigo": 34,
+      "autor": "Vince Lombardi",
+      "frase": "Eres más que capaz de encontrar el éxito, pero solo ocurrirá si te pones a ello",
+      "reflexion": "La posibilidad de tener éxito no le es negada a nadie si se dan una serie de requisitos básicos y la actitud adecuada."
+    },
+
+    {
+      "codigo": 35,
+      "autor": "Peter Drucker",
+      "frase": "La mejor forma de predecir el futuro es crearlo",
+      "reflexion": "Estudiar hoy es algo que tendrá repercusiones en el futuro en el que vivamos."
+    },
+
+    {
+      "codigo": 36,
+      "autor": "Pelé",
+      "frase": "Todo es prática",
+      "reflexion": "El mítico futbolista brasileño hace referencia a la práctica, al entrenamiento, como base para lograr triunfos."
+    },
+
+    {
+      "codigo": 37,
+      "autor": "Vidal Sassoon",
+      "frase": "El único lugar en el que el éxito viene antes que el trabajo es el diccionario",
+      "reflexion": "Una manera ingeniosa de recordar que el éxito es algo cuyo ingrediente indispensable es el esfuerzo."
+    },
+
+    {
+      "codigo": 38,
+      "autor": "Proverbio danés",
+      "frase": "A quien teme preguntar le da vergüenza aprender",
+      "reflexion": "Un poco de cultura popular para recordarnos que el estudio no es solo algo que cada uno hace en su casa: también se necesita de la ayuda de otros."
+    },
+
+    {
+      "codigo": 39,
+      "autor": "Matt Biondi",
+      "frase": "La perseverancia puede transformar el fracaso en un logro extraordinario",
+      "reflexion": "Ver los pequeños progresos del día a día como una suma de factores que nos hace mejorar es una manera de seguir esforzándonos."
+    },
+
+    {
+      "codigo": 40,
+      "autor": "Napoleon Hill",
+      "frase": "La paciencia, la perseverancia y el sudor hacen una combinación invencible para llegar al éxito",
+      "reflexion": "Una combinación para llegar a nuestros objetivos."
+    },
+
+    {
+      "codigo": 41,
+      "autor": "Sófocles",
+      "frase": "El éxito depende del esfuerzo",
+      "reflexion": "Ver el esfuerzo como algo que llega solo no tiene sentido, según el pensamiento de Sófocles."
+    },
+
+    {
+      "codigo": 42,
+      "autor": "George Halas",
+      "frase": "Nadie que haya dado lo mejor de sí mismo lo ha lamentado nunca.",
+      "reflexion": "Un modo de animarnos para mostrar la mejor faceta de nuestras capacidades."
+    },
+
+    {
+      "codigo": 43,
+      "autor": "Lou Holz",
+      "frase": "Sin autodisciplina, el éxito es imposible.",
+      "reflexion": "Saber gestionar la propia conducta es clave para estudiar bien."
+    },
+
+    {
+      "codigo": 44,
+      "autor": "Helenio Herrera",
+      "frase": "Quien no lo ha dado todo no ha dado nada.",
+      "reflexion": "Para mantenerse con una mentalidad que apunte hacia la ambición, nada como frases para estudiar de este estilo."
+    },
+
+    {
+      "codigo": 45,
+      "autor": "Benjamin Franklin",
+      "frase": "La energía y la persistencia conquistan todas las cosas.",
+      "reflexion": "El valor del estudio debe verse con perspectiva, teniendo en cuenta que es la paciencia lo que nos permite aprender."
+    },
+
+    {
+      "codigo": 46,
+      "autor": "Tito Livio",
+      "frase": "Cualquier esfuerzo resulta ligero con el hábito.",
+      "reflexion": "Una manera positiva de ver el esfuerzo de convertir el estudio en un hábito."
+    },
+
+    {
+      "codigo": 47,
+      "autor": "John Wooden",
+      "frase": "Haz de cada día una obra maestra.",
+      "reflexion": "Para aspirar a nuestros objetivos de aprendizaje, nada como dar el máximo de nosotros (casi) cada día."
+    },
+
+    {
+      "codigo": 48,
+      "autor": "Saadi",
+      "frase": "Ten paciencia; todas las cosas son difíciles hasta que se hacen fáciles.",
+      "reflexion": "Otra de las frases para estudiar que destacan la importancia de la paciencia."
+    },
+
+    {
+      "codigo": 49,
+      "autor": "Anónimo",
+      "frase": "¿Cuál es el sentido de vivir si no haces al menos una cosa destacable.",
+      "reflexion": "Una reflexión para fijarnos objetivos que nos obliguen a esforzarnos."
+    },
+
+    {
+      "codigo": 50,
+      "autor": "Mark Twain",
+      "frase": "El secreto de ir avanzando es empezar.",
+      "reflexion": "Una frase motivadora para centrarse en el aquí y el ahora."
+    },
+
+    {
+      "codigo": 51,
+      "autor": "Saint Francis de Sales",
+      "frase": "Ten paciencia con todas las cosas, especialmente con ti mismo.",
+      "reflexion": "Una recomendación para dirigir a uno mismo la atención y preguntarse si realmente se está haciendo todo lo que se puede hacer o se usan excusas victimistas para no seguir estudiando"
+    },
+
+    {
+      "codigo": 52,
+      "autor": "Sam Levenson",
+      "frase": "No mires el reloj; haz lo mismo que él, ve avanzando.",
+      "reflexion": "Una manera muy poética de instarnos a seguir esforzándonos."
+    },
+
+    {
+      "codigo": 53,
+      "autor": "Jim Valvano",
+      "frase": "¡Nunca te rindas! El fracaso y el rechazo son solo el primer escalón hacia el éxito.",
+      "reflexion": "Una buena manera de darse ánimos es recordar esta frase del entrenador de baloncesto Jim Valvano."
+    },
+
+    {
+      "codigo": 54,
+      "autor": "Jean Jacques Rousseau",
+      "frase": "La paciencia es amarga pero sus frutos son dulces.",
+      "reflexion": "Una de las frases más recordadas de este filósofo."
+    },
+
+    {
+      "codigo": 55,
+      "autor": "Og Mandino",
+      "frase": "Esfuérzate al máximo. Lo que siembres hoy dará sus frutos mañana.",
+      "reflexion": "Para estudiar bien hay que poner la mirada en el presente, pero también es bueno motivarse mirando hacia el futuro. Por eso frases motivadoras para estudiar como esta son muy útiles."
+    },
+
+    {
+      "codigo": 56,
+      "autor": "Confucio",
+      "frase": "No importa cuán despacio vayas mientras no te detengas ",
+      "reflexion": "Una de las inspiradoras reflexiones del filósofo oriental Confucio."
+    },
+
+    {
+      "codigo": 57,
+      "autor": "George S. Patton",
+      "frase": "Acepta los retos para sentir la euforia del triunfo",
+      "reflexion": "Una invitación a abrazar las tareas difíciles."
+    },
+
+    {
+      "codigo": 58,
+      "autor": "Vince Lombardi",
+      "frase": "Ganar no lo es todo, pero querer ganar sí lo es ",
+      "reflexion": "Otra de las frases de motivación de Vince Lombardi, en este caso centrada en la importancia de mantener una mentalidad positiva."
+    },
+
+    {
+      "codigo": 59,
+      "autor": "Ralph Martson",
+      "frase": "Lo que puedes hacer hoy puede mejorar todos tus mañanas.",
+      "reflexion": "Una frase para recordarnos el valor de los progresos que podemos hacer en el presente."
+    },
+
+    {
+      "codigo": 60,
+      "autor": "Robert H. Schuller",
+      "frase": "Los problemas no son signos de Stop, son pautas",
+      "reflexion": "Para ver las dificultades con espíritu constructivo, nada como recordar esta observación."
+    },
+
+    {
+      "codigo": 61,
+      "autor": "Maya Angelou",
+      "frase": "Puedes encontrar derrotas, pero no debes ser derrotado",
+      "reflexion": "Una frase de motivación que habla sobre lo importante de dar continuidad a nuestros esfuerzos por mejorar."
+    },
+
+    {
+      "codigo": 62,
+      "autor": "Albert Einstein",
+      "frase": "No es que sea muy listo, es que me quedo durante más tiempo trabajando en los problemas ",
+      "reflexion": "Una frase que tiene mucho valor viniendo de uno de los referentes intelectuales del siglo XX."
+    },
+
+    {
+      "codigo": 63,
+      "autor": "Julie Andrews",
+      "frase": "La perseverancia es caer 19 veces y levantarse 20",
+      "reflexion": "Una manera muy visual de expresar la importancia del esfuerzo."
+    }
+  ]
+}
